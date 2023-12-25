@@ -1,0 +1,57 @@
+body {
+        background-color: white
+}
+
+.Encabezado{
+    height: 100px;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+
+.Contenido{
+    text-align: center;  
+}
+
+.cuadro1{
+    margin-left: 500px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgb(0, 0, 0);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.cuadro2{
+    margin-left: 450px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgb(0, 0, 0);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+.Electrodomesticos{
+    text-align: center;
+}
+
+.cuadro3{
+    margin-left: 500px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgb(0, 0, 0);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.cuadro4{
+    margin-left: 450px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    border: 6px solid rgb(0, 0, 0);
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
